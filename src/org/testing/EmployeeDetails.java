@@ -19,6 +19,11 @@ public class EmployeeDetails {
 
 	}
 	
+	private void empSalary() {
+		System.out.println("30000");
+
+	}
+	
 	// Main Method 
 	public static void main(String[] args) {	
 		//classname objname=new Classname();
