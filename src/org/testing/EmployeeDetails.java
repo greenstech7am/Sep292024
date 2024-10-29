@@ -21,6 +21,7 @@ public class EmployeeDetails {
 	
 	private void empSalary() {
 		System.out.println("30000");
+		System.out.println("Test");
 
 	}
 	
